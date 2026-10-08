@@ -1,0 +1,6 @@
+{
+  "name": "MediLedger",
+  "description": "A secure healthcare data-sharing platform with patient-controlled consent, AES-256 encryption, and tamper-evident audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
